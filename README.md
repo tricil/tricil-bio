@@ -1,3 +1,3 @@
-The Biography of TRICIL.
+The Biography of [TRICIL](http://tricil.net/).
 
-Inspired by Tumblr's public terms of service documents on github for easy views of changelogs: https://github.com/tumblr/policy
+Inspired by [Tumblr's public terms of service documents on Github for easy views of change-logs](https://github.com/tumblr/policy)
