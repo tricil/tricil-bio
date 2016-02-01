@@ -2,7 +2,7 @@
 
 From the years 1997-2001, John studied electronic music composition at Brookwood High School.
 
-The first Tricil release was the eight-track Face EP, released via private FTP to friends via IRC[^1]. Due to the relative obscurity of its distribution and dial-up modems and crashed hard drives, this release is out of print. An early adopter of services like mp3.com, the next Tricil release, It's Been Worth It, was released more widely in the year 2001 via mp3.com and on-demand CD-Rs by the service.
+The first Tricil release was the eight-track Face EP, released via private FTP to friends via IRC[1]. Due to the relative obscurity of its distribution and dial-up modems and crashed hard drives, this release is out of print. An early adopter of services like mp3.com, the next Tricil release, It's Been Worth It, was released more widely in the year 2001 via mp3.com and on-demand CD-Rs by the service.
 
 The Severed EP followed in 2004, initially uploaded to a friends' web-server then spread by the link pasted on Live Journal and IRC. The Severed EP was [reissued with bonus tracks in 2012](http://tricil.bandcamp.com/album/severed).
 
