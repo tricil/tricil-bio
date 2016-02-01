@@ -1,0 +1,1 @@
+*Tricil*, real name John Jacobus, has been making electronic music since 1997, and was a classically trained trumpeter and self-taught guitarist since childhood.
