@@ -12,4 +12,6 @@ In June 2007, Tricil released the guitar-inflected [Esoteric Drift EP](http://tr
 
 In September of that year, John picked up **Haujobb**, a major influence, from the airport for their tour date in Atlanta and was asked to [join them on stage](https://www.flickr.com/photos/tricil/albums/72157623331983545) on additional sounds that evening.
 
-After The Secret Life had dissolved, John was a part Atlanta indie-rock band **Nerd Parade** and produced and performed on their first two records, most notably 2009's [Span of a Life](https://pupsounds.bandcamp.com/album/the-span-of-a-life) on which he wrote *68 Reasons* and *How Hard We Fall*.
+After The Secret Life had dissolved, John was a part Atlanta indie-rock band **Nerd Parade** and produced and performed on their first two records, most notably 2009's [The Span of a Life](https://pupsounds.bandcamp.com/album/the-span-of-a-life) on which he wrote *68 Reasons* and *How Hard We Fall*.
+
+In 2010, Tricil wrote *The Emancipation* for a compilation called *Enter Calico* (anagram of 'electronica') on Clear Notice (yet another anagram of 'electronica') records. Each track on the 12-song compilation had been pared with a video, as the compilation was released as an iPad application as well. [The Emancipation video](https://vimeo.com/13230643) was directed by Burning Head and stars the "broken-doll ballerina" Maleficent Martini. 
