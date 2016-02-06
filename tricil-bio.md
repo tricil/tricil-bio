@@ -9,3 +9,5 @@ The *Severed EP* followed in 2004, initially uploaded to a friends' web-server t
 From 2004-2007, John was one-half of the local Atlanta "Peachtree Industrial" duo known as **The Secret Life**. A "right place at the right time" story, The Secret Life opened up for acts as diverse as Mindless Self Indulgence, Diary of Dreams, Genghis Tron, and even Mastodon. The Secret Life released one record, called [The Great Book of Mysterys](http://ituuns.com/album/t-g-b-o-m-a-h-t-s-t).
 
 In June 2007, Tricil released the guitar-influenced [Esoteric Drift EP](http://tricil.bandcamp.com/album/esoteric-drift).
+
+Later that year, John picked up **Haujobb**, a major influence, from the airport for their tour date in Atlanta and was asked to [join them on stage](https://www.flickr.com/photos/tricil/albums/72157623331983545) on additional sounds that evening.
