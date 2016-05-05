@@ -18,4 +18,4 @@ Following up The Emancipation in 2011 were a string of singles and remixes for o
 
 A string of singles followed in 2012, collected in 2013 on the aptly-titled [Singles 2010-2012](https://tricil.bandcamp.com/album/singles-2010-2012). In December 2015, Tricil released a [self-titled six track EP of all-new material](https://tricil.bandcamp.com/album/tricil).
 
-Test
+Testy tester.
