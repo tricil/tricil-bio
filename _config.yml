@@ -1,2 +1,2 @@
-markdown: redcarpet
+kramdown: redcarpet
 path: http://tricil.github.io/tricil-bio
