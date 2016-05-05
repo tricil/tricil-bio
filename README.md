@@ -17,5 +17,3 @@ In 2010, Tricil wrote *The Emancipation* for a compilation called *Enter Calico*
 Following up The Emancipation in 2011 were a string of singles and remixes for other artists: [One Day Soon](https://vimeo.com/25706779) in June, followed a week later by a remix of Haujobb side project **Architect**'s [The Shadows of Eve](https://www.youtube.com/watch?v=R1oYYsUFqpU), then a remix for [How to Destroy Angels](https://www.youtube.com/watch?v=h08aXHhqlLU) in July. While this was happening, John [contributed](http://www.discogs.com/artist/2491455-John-Jacobus) to the first Haujobb record in five years, [New World March](https://haujobb.bandcamp.com/album/new-world-march).
 
 A string of singles followed in 2012, collected in 2013 on the aptly-titled [Singles 2010-2012](https://tricil.bandcamp.com/album/singles-2010-2012). In December 2015, Tricil released a [self-titled six track EP of all-new material](https://tricil.bandcamp.com/album/tricil).
-
-Testy tester.
