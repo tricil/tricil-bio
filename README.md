@@ -1,4 +1,4 @@
-[Tricil](http:tricil.net) has been making electronic music since 1997, and was a classically trained trumpeter and self-taught guitarist since childhood.
+[Tricil](http://tricil.net) has been making electronic music since 1997, and was a classically trained trumpeter and self-taught guitarist since childhood.
 
 The first Tricil release was the eight-track *Face EP*, released via private FTP in 1998 to friends via Internet Relay Chat (IRC). Due to the relative obscurity of its distribution and dial-up modems and crashed hard drives, this release is out of print. An early adopter of services like mp3.com, the next Tricil release, *It's Been Worth It*, was released more widely in the year 2001 via mp3.com and on-demand CD-Rs by the service.
 
