@@ -18,4 +18,4 @@ Following up The Emancipation in 2011 were a string of singles and remixes for o
 
 From August 2012 through January 2015, a string of singles were released: [Vocka](http://music.tricil.net/track/vocka), [Sleeping Makes Everything Better](http://music.tricil.net/track/sleeping-makes-everything-better), [Effortly](http://music.tricil.net/track/effortly), and [Restrung](http://music.tricil.net/track/restrung). In December 2015, Tricil released a [self-titled six track EP of all-new material](http://music.tricil.net/album/tricil).
 
-On March 25, 2017, Tricil will perform their first live show in four years at the [Nophest](http://nophest.org) festival.
+On March 25, 2017, Tricil performed live for the first time in four years at the [Nophest](http://nophest.org) festival.

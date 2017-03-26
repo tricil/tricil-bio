@@ -1,0 +1,8 @@
+title: Tricil Bio
+description: The Biography of Tricil
+google_analytics: UA-13186701-6
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
