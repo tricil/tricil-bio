@@ -20,4 +20,4 @@ From August 2012 through January 2015, a string of singles were released: [Vocka
 
 On March 25, 2017, Tricil performed live for the first time in four years at the [Nophest](http://nophest.org) festival.
 
-Later in 2017, Tricil has started uploading raw, unfinished demo pieces to his [SoundCloud](https://soundcloud.com/tricil) account.
+Later in 2017, Tricil has started uploading raw, unfinished demo pieces to his [SoundCloud account](https://soundcloud.com/tricil).
