@@ -4,7 +4,7 @@ The first Tricil release was the eight-track *Face EP*, released via private FTP
 
 The *Severed EP* followed in 2004, initially uploaded to a friends' web-server then spread by the link pasted on Live Journal and IRC. The *Severed EP* was [reissued with bonus tracks in 2012](http://music.tricil.net/album/severed).
 
-From 2004-2007, Tricil was one-half of the local Atlanta "Peachtree Industrial" duo known as **The Secret Life**. A "right place at the right time" story, The Secret Life opened up for acts as diverse as Mindless Self Indulgence, Diary of Dreams, Genghis Tron, and even Mastodon. The Secret Life released one record, called [The Great Book of Mysterys](http://ituuns.com/album/t-g-b-o-m-a-h-t-s-t). In late 2006, Tricil completed a remix for **Celldweller**'s "Frozen" titled the "Peachtree Industrial" remix, a nod to the geographical location of Tricil, the genre, and a main local thoroughfare. 
+From 2004-2007, Tricil was one-half of the local Atlanta "Peachtree Industrial" duo known as **The Secret Life**. A "right place at the right time" story, The Secret Life opened up for acts as diverse as Mindless Self Indulgence, Diary of Dreams, Genghis Tron, and even Mastodon. The Secret Life released one record, called [The Great Book of Mysterys](http://ituuns.com/album/t-g-b-o-m-a-h-t-s-t). In late 2006, Tricil completed a remix for **Celldweller**'s "Frozen" titled the "Peachtree Industrial" remix, a nod to the geographical location of Tricil, the genre, and a main local thoroughfare.
 
 In June 2007, Tricil released the guitar-inflected [Esoteric Drift EP](http://music.tricil.net/album/esoteric-drift).
 
@@ -18,6 +18,4 @@ Following up The Emancipation in 2011 were a string of singles and remixes for o
 
 From August 2012 through January 2015, a string of singles were released: [Vocka](http://music.tricil.net/track/vocka), [Sleeping Makes Everything Better](http://music.tricil.net/track/sleeping-makes-everything-better), [Effortly](http://music.tricil.net/track/effortly), and [Restrung](http://music.tricil.net/track/restrung). In December 2015, Tricil released a [self-titled six track EP of all-new material](http://music.tricil.net/album/tricil).
 
-On March 25, 2017, Tricil performed live for the first time in four years at the [Nophest](http://nophest.org) festival.
-
-Later in 2017, Tricil has started uploading raw, unfinished demo pieces to his [SoundCloud account](https://soundcloud.com/tricil).
+On February 21, 2018, the song [New Tricil Song](http://music.tricil.net/track/new-tricil-song) was released.
