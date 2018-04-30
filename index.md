@@ -4,11 +4,8 @@ The first Tricil release was the eight-track *Face EP*, released via private FTP
 
 The *Severed EP* followed in 2004, initially uploaded to a friends' web-server then spread by the link pasted on Live Journal and IRC. The *Severed EP* was [reissued with bonus tracks in 2012](http://music.tricil.net/album/severed).
 
-<<<<<<< HEAD
-From 2004-2007, Tricil was one-half of the local Atlanta "Peachtree Industrial" duo known as **The Secret Life**. A "right place at the right time" story, The Secret Life opened up for acts as diverse as Mindless Self Indulgence, Diary of Dreams, Genghis Tron, and even Mastodon. The Secret Life released one record, called [The Great Book of Mysterys](http://ituuns.com/album/t-g-b-o-m-a-h-t-s-t). In late 2006, Tricil completed a remix for **Celldweller**'s "Frozen" titled the "Peachtree Industrial" remix, a nod to the geographical location of Tricil, the genre, and a main local thoroughfare.
-=======
-From 2004-2007, Tricil was one-half of the local Atlanta "Peachtree Industrial" duo known as **The Secret Life**. A "right place at the right time" story, The Secret Life opened up for acts as diverse as Mindless Self Indulgence, Diary of Dreams, Genghis Tron, and even Mastodon. The Secret Life released one record, called [The Great Book of Mysterys](http://ituuns.com/album/t-g-b-o-m-a-h-t-s-t). In late 2006, Tricil completed a remix for **Celldweller**'s "Frozen" titled the "Peachtree Industrial" remix, a nod to the geographical location of Tricil, the genre, and a main local thoroughfare. 
->>>>>>> 239eca49b1118ace56b10abaa2b96a16497b749e
+From 2004-2007, Tricil was one-half of the local Atlanta "Peachtree Industrial" duo known as **The Secret Life**. A "right place at the right time" story, The Secret Life opened up for acts as diverse as Mindless Self Indulgence, Diary of Dreams, Genghis Tron, and even Mastodon. The Secret Life released one record, called [The Great Book of Mysterys](http://ituuns.com/album/t-g-b-o-m-a-h-t-s-t). In late 2006, Tricil completed a remix for **Celldweller**'s "Frozen" titled the ["Peachtree Industrial" remix](https://celldweller.bandcamp.com/track/frozen-tricil-remix), a nod to the geographical location of Tricil, the genre, and a main local thoroughfare. 
+
 
 In June 2007, Tricil released the guitar-inflected [Esoteric Drift EP](http://music.tricil.net/album/esoteric-drift).
 
